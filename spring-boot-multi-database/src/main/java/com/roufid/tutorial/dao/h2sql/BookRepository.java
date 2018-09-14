@@ -1,0 +1,10 @@
+package com.roufid.tutorial.dao.h2sql;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.roufid.tutorial.entity.h2sql.Book;
+
+
+public interface BookRepository extends CrudRepository<Book, Long> {
+
+}
