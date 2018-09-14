@@ -1,4 +1,4 @@
-package com.roufid.tutorial;
+package com.multidb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
