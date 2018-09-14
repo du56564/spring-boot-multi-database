@@ -1,4 +1,4 @@
-package com.roufid.tutorial;
+package com.multidb;
 
 import org.junit.Assert;
 import org.junit.Before;
